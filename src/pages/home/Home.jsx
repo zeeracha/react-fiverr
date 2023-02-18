@@ -47,7 +47,7 @@ const Home = () => {
               until you approve the work.
             </p>
             <div className="title">
-              <img src="./img/check.png" alt="" />
+              <img src="./img/check.png" alt=""/>
               24/7 support
             </div>
             <p>
@@ -57,7 +57,7 @@ const Home = () => {
           </div>
 
           <div className="item">
-            <video src="./image/video.mp4"></video>
+            <source src="public\img\video.mp4" type="video/mp4"></source>
           </div>
         </div>
       </div>

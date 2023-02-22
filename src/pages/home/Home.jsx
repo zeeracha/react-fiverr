@@ -57,7 +57,9 @@ const Home = () => {
           </div>
 
           <div className="item">
-            <source src="public\img\video.mp4" type="video/mp4"></source>
+          <video controls>
+            <source src="/img/video.mp4" type="video/mp4" />
+          </video>
           </div>
         </div>
       </div>

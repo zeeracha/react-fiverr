@@ -5,7 +5,7 @@ This project was clone from https://www.fiverr.com/
 ![alt text](https://github.com/zeeracha/react-fiverr/blob/main/public/pages/home.png?raw=true)
 
 ### Gigs data table
-![alt text](https://github.com/zeeracha/react-fiverr/blob/main/public/pages/Gigs.png?raw=true
+![alt text](https://github.com/zeeracha/react-fiverr/blob/main/public/pages/Gigs.png?raw=true)
 
 ### Add New Gig page
 ![alt text](https://github.com/zeeracha/react-fiverr/blob/main/public/pages/AddNewGig.png?raw=true)
@@ -16,7 +16,7 @@ This project was clone from https://www.fiverr.com/
 ### Messages table page
 ![alt text](https://github.com/zeeracha/react-fiverr/blob/main/public/pages/Messages.png?raw=true)
 
-###Message page : inside the messages table
+### Message page : inside the messages table
 ![alt text](https://github.com/zeeracha/react-fiverr/blob/main/public/pages/message1.png?raw=true)
 
 1. commit

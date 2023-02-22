@@ -2,29 +2,23 @@
 This project was clone from https://www.fiverr.com/
 
 
-<h2 align="center"> Home page
+<h2 align="center"> Home page</h2>
 ![alt text](https://github.com/zeeracha/react-fiverr/blob/main/public/pages/home.png?raw=true)<br />
-</h2>
 
-<h2 align="center"> Gigs data table
+<h2 align="center"> Gigs data table</h2>
 ![alt text](https://github.com/zeeracha/react-fiverr/blob/main/public/pages/Gigs.png?raw=true)<br />
-</h2>
 
-<h2 align="center"> Add New Gig page
+<h2 align="center"> Add New Gig page</h2>
 ![alt text](https://github.com/zeeracha/react-fiverr/blob/main/public/pages/AddNewGig.png?raw=true)<br />
-</h2>
 
-<h2 align="center"> Order page
+<h2 align="center"> Order page</h2>
 ![alt text](https://github.com/zeeracha/react-fiverr/blob/main/public/pages/Order.png?raw=true)<br />
-</h2>
 
-<h2 align="center"> Messages table page
+<h2 align="center"> Messages table page</h2>
 ![alt text](https://github.com/zeeracha/react-fiverr/blob/main/public/pages/Messages.png?raw=true)<br />
-</h2>
 
-<h2 align="center"> Message page : inside the messages table
+<h2 align="center"> Message page : inside the messages table</h2>
 ![alt text](https://github.com/zeeracha/react-fiverr/blob/main/public/pages/message1.png?raw=true)<br />
-</h2>
 
 1. commit
     - React installation with Vite

@@ -1,28 +1,21 @@
 ﻿# react-fiverr ui
 This project was clone from https://www.fiverr.com/
 
-
-<!-- <h2 align="center">Home page</h2> -->
-###Home page
+### Home page
 ![alt text](https://github.com/zeeracha/react-fiverr/blob/main/public/pages/home.png?raw=true)
 
-<!-- <h2 align="center">Gigs data table</h2> -->
-###Gigs data table
+### Gigs data table
 ![alt text](https://github.com/zeeracha/react-fiverr/blob/main/public/pages/Gigs.png?raw=true
 
-<!-- <h2 align="center">Add New Gig page</h2> -->
-###Add New Gig page
+### Add New Gig page
 ![alt text](https://github.com/zeeracha/react-fiverr/blob/main/public/pages/AddNewGig.png?raw=true)
 
-<!-- <h2 align="center">Order page</h2> -->
-###Order page
+### Order page
 ![alt text](https://github.com/zeeracha/react-fiverr/blob/main/public/pages/Order.png?raw=true)
 
-<!-- <h2 align="center">Messages table page</h2> -->
-###Messages table page
+### Messages table page
 ![alt text](https://github.com/zeeracha/react-fiverr/blob/main/public/pages/Messages.png?raw=true)
 
-<!-- <h2 align="center">Message page : inside the messages table</h2> -->
 ###Message page : inside the messages table
 ![alt text](https://github.com/zeeracha/react-fiverr/blob/main/public/pages/message1.png?raw=true)
 
